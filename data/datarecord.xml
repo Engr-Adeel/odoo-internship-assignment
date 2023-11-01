@@ -1,0 +1,17 @@
+<odoo>
+
+   <data>
+
+       <record id="record1" model="your.model">
+
+           <field name="your_field_name">Field Value</field>
+
+           <field name="your_field_name1">1</field>
+
+           <field name="your_field_name2"></field>
+
+       </record>
+
+   </data>
+
+</odoo>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<odoo>
+    <menuitem id="real_estate_root" name="Real Estate" sequence="10" />
+   
+    <!-- <menuitem id="real_estate_operation" parent="real_estate_root"  name="Operation" sequence="10" /> -->
+
+        
+</odoo>
